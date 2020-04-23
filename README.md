@@ -26,3 +26,10 @@ Self-leveling GCODE for 3D printers without automatic leveling.
 235x235
 
 200x200
+
+
+========================================
+
+Atualização dia 23/04/2020
+
+Adicionado a resolução de mesa 220x220 compatível com várias impressoras. Ex: ANET A8.
