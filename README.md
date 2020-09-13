@@ -32,4 +32,11 @@ Self-leveling GCODE for 3D printers without automatic leveling.
 
 Atualização dia 23/04/2020
 
-Adicionado a resolução de mesa 220x220 compatível com várias impressoras. Ex: ANET A8.
+Adicionado a resolução de mesa 220x220 compatível com várias impressoras. Ex: ANET A8 e Ender 3.
+
+========================================
+
+Atualização dia 13/08/2020
+
+Corrigido um erro na resolução de mesa 220x220 que não estáva menssurando a mesa corretamente o eixo ia até a cordenada 180 de X e Y sendo estendido até a cordenada 200.
+
